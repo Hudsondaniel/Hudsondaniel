@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hey, I'm Hudson!<br><br>💻 Software Engineer<br><br>🚀 I specialize in building scalable, high-performance applications using modern web technologies. Passionate about system design, backend engineering, and problem-solving, I enjoy developing products that solve real-world problems efficiently.<br><br>📌 What I'm Working On<br><br>SaaS Project – A full-stack web app designed for scalability and real-world use.<br>Advanced System Design – Designing highly available and distributed systems.<br>LeetCode Grind – Solving advanced algorithmic problems to master DSA.<br>
 
 
